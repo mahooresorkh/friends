@@ -1,0 +1,25 @@
+{
+    "info": [
+        {
+            "id": 1,
+            "name": "علیرضا شجری",
+            "friendship_state": "friend",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEJ46FmT9rAbjbZlULDQTAlHnF9prN5HDrFdmHFddOBhgmNwS2&usqp=CAU",
+            "token": "a8d93hd9vyb83hkd8a98dfh3kpmm5z"
+        },
+        {
+            "id": 67,
+            "name": "محمد سماوی",
+            "friendship_state": "friend",
+            "image": "https://www.samatak.com/image/2017/02/1/299035145-samatak-com.jpg",
+            "token": "okmnji879853trgfbdrwtrggkkdiv3"
+        },
+        {
+            "id": 100,
+            "name": "عزیز قربانی",
+            "friendship_state": "friend",
+            "image": "https://arga-mag.com/file/img/2019/08/Low-back-hairstyles-for-men-29.jpg",
+            "token": "abnkjh09243kjhhhg64kjxckjh2587"
+        }
+    ]     
+}
